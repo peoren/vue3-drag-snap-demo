@@ -1,0 +1,22 @@
+{
+  "name": "vue3-drag-snap-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.8",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "vue3-moveable": "^0.28.0",
+    "vue3-selecto": "^1.12.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
