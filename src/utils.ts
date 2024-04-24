@@ -1,4 +1,4 @@
-import { StyleObject } from '@/views/admin/system/lab-center/components/types'
+import {StyleObject} from "./types";
 
 export type CSSProperties = {
   [property: string]: string | number
@@ -32,7 +32,7 @@ export function stringToCssObject(cssString: string): CSSProperties {
 /**
  * @description 样式转换
  * @return {undefined} 描述返回值
- * @param StyleString
+ * @param style
  */
 export const translateStyle = (style: StyleObject) => {
   return {
