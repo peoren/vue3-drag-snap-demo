@@ -15,7 +15,7 @@ const props = defineProps({
   },
   list: {
     type: Array,
-    default: () => []
+    default: () => boxSquareList
   }
 })
 const containerRef = ref<HTMLElement | null>(null)
@@ -388,7 +388,7 @@ const redoHandler = () => {
   </div>
 </template>
 
-<style scoped lang="scss">
+<style scoped >
 .container {
   width: 100%;
   height: 100%;
