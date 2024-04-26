@@ -1,1 +1,219 @@
-[{"id":"5798286f-8ee0-4043-a365-4e70b02e10f7","tagName":"div","className":"cube0 ","cssText":"top: 135px; left: 196px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(-11.8457px, 1.39678px) rotate(0deg) scale(1, 1); width: 213.552px; height: 150.357px;","svgUrl":""},{"id":"d1ac22f0-60f7-4a26-9780-e14c0f4ecca9","tagName":"div","className":"cube1 ","cssText":"top: 140px; left: 397px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(0.706095px, -3.60322px) rotate(0deg) scale(1, 1); width: 78.4476px; height: 90.4326px;","svgUrl":""},{"id":"5aa30cc7-d566-4817-a136-2f7a65302ce4","tagName":"div","className":"cube2 ","cssText":"top: 137px; left: 465px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(11.1537px, -0.603228px) rotate(0deg) scale(1, 1); width: 72.9998px; height: 90.4326px;","svgUrl":""},{"id":"b9a60b17-c4b6-4323-b3a6-2b535cf717ac","tagName":"div","className":"cube3 ","cssText":"top: 137px; left: 532px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(17.1535px, -0.603228px) rotate(0deg) scale(1, 1); width: 74.0894px; height: 90.4326px;","svgUrl":""},{"id":"1bf31363-d136-45a9-be4a-7ef557fb517a","tagName":"div","className":"cube4 ","cssText":"top: 140px; left: 602px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(21.2429px, -3.60322px) rotate(0deg) scale(1, 1); width: 203.746px; height: 90.4326px;","svgUrl":""},{"id":"90add742-cdf4-4a73-95f2-3c67d0d6273a","tagName":"div","className":"cube5 ","cssText":"top: 134px; left: 786px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(40.9887px, 1.30722px) rotate(0deg) scale(1, 1); width: 228.805px; height: 151.448px;","svgUrl":""},{"id":"c1f0a4c3-9653-4d8f-953f-7e978595bbcc","tagName":"div","className":"cube6 ","cssText":"top: 279px; left: 213px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(-28.8457px, 7.75466px) rotate(0deg) scale(1, 1); width: 213.552px; height: 218.999px;","svgUrl":""},{"id":"0cb0ed76-4626-4c67-963f-274ad5a69383","tagName":"div","className":"cube7 ","cssText":"top: 276px; left: 787px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(39.9887px, 10.7547px) rotate(0deg) scale(1, 1); width: 228.805px; height: 218.999px;","svgUrl":""},{"id":"f8089ff2-8628-460b-ad57-f5b787402165","tagName":"div","className":"cube8 ","cssText":"top: 354px; left: 442px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(10.1836px, 21.0082px) rotate(0deg) scale(1, 1); width: 96.9699px; height: 130.746px;","svgUrl":""},{"id":"bcba785e-4064-4b84-8cdf-42cf64761b9d","tagName":"div","className":"cube9 ","cssText":"top: 356px; left: 548px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(1.15359px, 19.0082px) rotate(0deg) scale(1, 1); width: 107.866px; height: 130.746px;","svgUrl":""},{"id":"7243282a-8115-46f4-91df-e6bf9b5a9641","tagName":"div","className":"cube10 ","cssText":"top: 366px; left: 649px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(8.01898px, 9.00821px) rotate(0deg) scale(1, 1); width: 92.6117px; height: 130.746px;","svgUrl":""},{"id":"d30841c9-d1bc-4cd0-bb9a-f9ba8d04ecb4","tagName":"IconComponent","className":"cube11 ","cssText":"top: 388px; left: 388px; font-size: 18px; position: absolute; transform: translate(5.3479px, 24.0529px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;","svgUrl":"src/assets/svg/fire-extinguisher.svg"},{"id":"20585826-7cfb-4c71-a8af-0a1192d4f215","tagName":"IconComponent","className":"cube12 ","cssText":"top: 417px; left: 390px; font-size: 18px; position: absolute; transform: translate(5.527px, 26.6498px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;","svgUrl":"src/assets/svg/fire-extinguisher.svg"},{"id":"8ef62cb5-04cf-4439-a3aa-707ae383f5eb","tagName":"IconComponent","className":"cube13 ","cssText":"top: 189px; left: 553px; font-size: 18px; position: absolute; transform: translate(20.1118px, -10.1318px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;","svgUrl":"src/assets/svg/bathroom.svg"},{"id":"857ac554-227e-4416-b698-fd8ba84186b4","tagName":"IconComponent","className":"cube14 ","cssText":"top: 230px; left: 763px; font-size: 18px; position: absolute; transform: translate(254.448px, 19.9137px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;","svgUrl":"src/assets/svg/fire-extinguisher.svg"},{"id":"4d3a63ad-0fc5-47a6-b54e-1a9b434a7421","tagName":"IconComponent","className":"cube15 ","cssText":"top: 198px; left: 274px; font-size: 18px; position: absolute; transform: translate(-4.86079px, 7.03842px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;","svgUrl":"src/assets/svg/warning.svg"},{"id":"effc4b3d-262e-4c8c-8dc5-88e765841aee","tagName":"IconComponent","className":"cube16 ","cssText":"top: 295px; left: 773px; font-size: 18px; position: absolute; transform: translate(30.4498px, 2.22828px) rotate(0deg) scale(1, 1); width: 25.2344px; height: 25.2344px;","svgUrl":"src/assets/svg/fire-extinguisher.svg"},{"id":"b7c891fa-81d8-4f56-8067-31d964d2f417","tagName":"IconComponent","className":"cube17 ","cssText":"top: 232px; left: 385px; font-size: 18px; position: absolute; width: 25.2344px; height: 25.2344px; transform: translate(12.7px, 65.2656px) rotate(0deg) scale(1, 1);","svgUrl":"src/assets/svg/fire-extinguisher.svg"},{"id":"541ad51b-8f1d-4e5b-a2dd-bbeeae7e8018","tagName":"p","className":"cube18 ","cssText":"top: 560px; left: 954px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(-12.5578px, -102.638px) rotate(89.5232deg) scale(1, 1); width: 7px; height: 89px;","svgUrl":""},{"id":"2acf2d33-419e-4491-aa9e-4e8631122e44","tagName":"p","className":"cube19 ","cssText":"top: 320px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 9.82277px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;","svgUrl":""},{"id":"a5ded043-aff1-4eab-8526-82334218f35b","tagName":"p","className":"cube20 ","cssText":"top: 385px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 13.1661px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;","svgUrl":""},{"id":"82b3a648-76d9-4b26-a7cd-6623fa75e0bd","tagName":"p","className":"cube21 ","cssText":"top: 156px; left: 182px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0.0514354px, 1.38737px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;","svgUrl":""},{"id":"d0b375a5-08c6-4216-9813-4db3b656019a","tagName":"p","className":"cube22 ","cssText":"top: 208px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 4.062px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;","svgUrl":""},{"id":"0b0b6d5a-84a2-4aa9-a242-ebb2799a1595","tagName":"p","className":"cube23 ","cssText":"top: 186px; left: 1007px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(42.4856px, 2.95912px) rotate(0deg) scale(1, 1); width: 6px; height: 42px;","svgUrl":""},{"id":"ba00c7be-6f3f-4cb4-8d5a-2cd0b8561481","tagName":"IconComponent","className":"cube25 ","cssText":"top: 377px; left: 999px; font-size: 18px; position: absolute; transform: translate(-170.071px, 9.56606px) rotate(181.121deg) scale(1, 1); width: 25.2344px; height: 25.2344px;","svgUrl":"src/assets/svg/out-door.svg"},{"id":"efa838d4-b96d-4e0e-b471-3483f3f89b54","tagName":"IconComponent","className":"cube25 ","cssText":"top: 371px; left: 372px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(-90.05px, 110.678px) rotate(90.1053deg) scale(1, 1);","svgUrl":"src/assets/svg/out-door.svg"},{"id":"aec8b37c-bf72-4ebf-b6a2-56d96ca45967","tagName":"IconComponent","className":"cube26 ","cssText":"top: 236px; left: 854px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(-23.9388px, 2.1612px) rotate(178.359deg) scale(1, 1);","svgUrl":"src/assets/svg/out-door.svg"},{"id":"c4d06967-fe3e-49d4-bf73-9ce1050c9dbe","tagName":"p","className":"cube27 ","cssText":"top: 116px; left: 710px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(9.04849px, -4.10584px) rotate(89.1941deg) scale(1, 1); width: 7px; height: 55px;","svgUrl":""},{"id":"eed51df9-06b2-44e3-b8f7-e0e546f9e688","tagName":"p","className":"cube28 ","cssText":"top: 114px; left: 287px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(-1.35732px, 5.3009px) rotate(89.7106deg) scale(1, 1); width: 7px; height: 40px;","svgUrl":""},{"id":"4984caba-d28a-4b5e-b149-0e9b9d614903","tagName":"IconComponent","className":"cube29 ","cssText":"top: 234px; left: 361px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(8.3px, 4.5px) rotate(0deg) scale(1, 1);","svgUrl":"src/assets/svg/out-door.svg"},{"id":"06508b6b-2e48-455a-9280-1ed8cb2689f9","tagName":"IconComponent","className":"cube30 ","cssText":"top: 198px; left: 706px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(0px, 0px) rotate(87.0204deg) scale(1, 1);","svgUrl":"src/assets/svg/out-door.svg"}]
+[
+  {
+    "id": "5798286f-8ee0-4043-a365-4e70b02e10f7",
+    "tagName": "div",
+    "className": "cube0 ",
+    "cssText": "top: 135px; left: 196px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(-11.8457px, 1.39678px) rotate(0deg) scale(1, 1); width: 213.552px; height: 150.357px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "d1ac22f0-60f7-4a26-9780-e14c0f4ecca9",
+    "tagName": "div",
+    "className": "cube1 ",
+    "cssText": "top: 140px; left: 397px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(0.706095px, -3.60322px) rotate(0deg) scale(1, 1); width: 78.4476px; height: 90.4326px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "5aa30cc7-d566-4817-a136-2f7a65302ce4",
+    "tagName": "div",
+    "className": "cube2 ",
+    "cssText": "top: 137px; left: 465px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(11.1537px, -0.603228px) rotate(0deg) scale(1, 1); width: 72.9998px; height: 90.4326px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "b9a60b17-c4b6-4323-b3a6-2b535cf717ac",
+    "tagName": "div",
+    "className": "cube3 ",
+    "cssText": "top: 137px; left: 532px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(17.1535px, -0.603228px) rotate(0deg) scale(1, 1); width: 74.0894px; height: 90.4326px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "1bf31363-d136-45a9-be4a-7ef557fb517a",
+    "tagName": "div",
+    "className": "cube4 ",
+    "cssText": "top: 140px; left: 602px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(21.2429px, -3.60322px) rotate(0deg) scale(1, 1); width: 203.746px; height: 90.4326px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "90add742-cdf4-4a73-95f2-3c67d0d6273a",
+    "tagName": "div",
+    "className": "cube5 ",
+    "cssText": "top: 134px; left: 786px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(40.9887px, 1.30722px) rotate(0deg) scale(1, 1); width: 228.805px; height: 151.448px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "c1f0a4c3-9653-4d8f-953f-7e978595bbcc",
+    "tagName": "div",
+    "className": "cube6 ",
+    "cssText": "top: 279px; left: 213px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(-28.8457px, 7.75466px) rotate(0deg) scale(1, 1); width: 213.552px; height: 218.999px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "0cb0ed76-4626-4c67-963f-274ad5a69383",
+    "tagName": "div",
+    "className": "cube7 ",
+    "cssText": "top: 276px; left: 787px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(39.9887px, 10.7547px) rotate(0deg) scale(1, 1); width: 228.805px; height: 218.999px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "f8089ff2-8628-460b-ad57-f5b787402165",
+    "tagName": "div",
+    "className": "cube8 ",
+    "cssText": "top: 354px; left: 442px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(10.1836px, 21.0082px) rotate(0deg) scale(1, 1); width: 96.9699px; height: 130.746px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "bcba785e-4064-4b84-8cdf-42cf64761b9d",
+    "tagName": "div",
+    "className": "cube9 ",
+    "cssText": "top: 356px; left: 548px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(1.15359px, 19.0082px) rotate(0deg) scale(1, 1); width: 107.866px; height: 130.746px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "7243282a-8115-46f4-91df-e6bf9b5a9641",
+    "tagName": "div",
+    "className": "cube10 ",
+    "cssText": "top: 366px; left: 649px; background-color: rgb(213, 238, 250); border: 2px solid rgb(70, 84, 190); position: absolute; transform: translate(8.01898px, 9.00821px) rotate(0deg) scale(1, 1); width: 92.6117px; height: 130.746px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "d30841c9-d1bc-4cd0-bb9a-f9ba8d04ecb4",
+    "tagName": "IconComponent",
+    "className": "cube11 ",
+    "cssText": "top: 388px; left: 388px; font-size: 18px; position: absolute; transform: translate(5.3479px, 24.0529px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;",
+    "svgUrl": "src/assets/svg/fire-extinguisher.svg"
+  },
+  {
+    "id": "20585826-7cfb-4c71-a8af-0a1192d4f215",
+    "tagName": "IconComponent",
+    "className": "cube12 ",
+    "cssText": "top: 417px; left: 390px; font-size: 18px; position: absolute; transform: translate(5.527px, 26.6498px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;",
+    "svgUrl": "src/assets/svg/fire-extinguisher.svg"
+  },
+  {
+    "id": "8ef62cb5-04cf-4439-a3aa-707ae383f5eb",
+    "tagName": "IconComponent",
+    "className": "cube13 ",
+    "cssText": "top: 189px; left: 553px; font-size: 18px; position: absolute; transform: translate(20.1118px, -10.1318px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;",
+    "svgUrl": "src/assets/svg/bathroom.svg"
+  },
+  {
+    "id": "857ac554-227e-4416-b698-fd8ba84186b4",
+    "tagName": "IconComponent",
+    "className": "cube14 ",
+    "cssText": "top: 230px; left: 763px; font-size: 18px; position: absolute; transform: translate(254.448px, 19.9137px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;",
+    "svgUrl": "src/assets/svg/fire-extinguisher.svg"
+  },
+  {
+    "id": "4d3a63ad-0fc5-47a6-b54e-1a9b434a7421",
+    "tagName": "IconComponent",
+    "className": "cube15 ",
+    "cssText": "top: 198px; left: 274px; font-size: 18px; position: absolute; transform: translate(-4.86079px, 7.03842px) rotate(0deg) scale(1, 1); width: 26.1492px; height: 26.1492px;",
+    "svgUrl": "src/assets/svg/warning.svg"
+  },
+  {
+    "id": "effc4b3d-262e-4c8c-8dc5-88e765841aee",
+    "tagName": "IconComponent",
+    "className": "cube16 ",
+    "cssText": "top: 295px; left: 773px; font-size: 18px; position: absolute; transform: translate(30.4498px, 2.22828px) rotate(0deg) scale(1, 1); width: 25.2344px; height: 25.2344px;",
+    "svgUrl": "src/assets/svg/fire-extinguisher.svg"
+  },
+  {
+    "id": "b7c891fa-81d8-4f56-8067-31d964d2f417",
+    "tagName": "IconComponent",
+    "className": "cube17 ",
+    "cssText": "top: 232px; left: 385px; font-size: 18px; position: absolute; width: 25.2344px; height: 25.2344px; transform: translate(12.7px, 65.2656px) rotate(0deg) scale(1, 1);",
+    "svgUrl": "src/assets/svg/fire-extinguisher.svg"
+  },
+  {
+    "id": "541ad51b-8f1d-4e5b-a2dd-bbeeae7e8018",
+    "tagName": "p",
+    "className": "cube18 ",
+    "cssText": "top: 560px; left: 954px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(-12.5578px, -102.638px) rotate(89.5232deg) scale(1, 1); width: 7px; height: 89px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "2acf2d33-419e-4491-aa9e-4e8631122e44",
+    "tagName": "p",
+    "className": "cube19 ",
+    "cssText": "top: 320px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 9.82277px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "a5ded043-aff1-4eab-8526-82334218f35b",
+    "tagName": "p",
+    "className": "cube20 ",
+    "cssText": "top: 385px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 13.1661px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "82b3a648-76d9-4b26-a7cd-6623fa75e0bd",
+    "tagName": "p",
+    "className": "cube21 ",
+    "cssText": "top: 156px; left: 182px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0.0514354px, 1.38737px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "d0b375a5-08c6-4216-9813-4db3b656019a",
+    "tagName": "p",
+    "className": "cube22 ",
+    "cssText": "top: 208px; left: 181px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(0px, 4.062px) rotate(0deg) scale(1, 1); width: 10.5144px; height: 42.0574px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "0b0b6d5a-84a2-4aa9-a242-ebb2799a1595",
+    "tagName": "p",
+    "className": "cube23 ",
+    "cssText": "top: 186px; left: 1007px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(42.4856px, 2.95912px) rotate(0deg) scale(1, 1); width: 6px; height: 42px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "ba00c7be-6f3f-4cb4-8d5a-2cd0b8561481",
+    "tagName": "IconComponent",
+    "className": "cube25 ",
+    "cssText": "top: 377px; left: 999px; font-size: 18px; position: absolute; transform: translate(-170.071px, 9.56606px) rotate(181.121deg) scale(1, 1); width: 25.2344px; height: 25.2344px;",
+    "svgUrl": "src/assets/svg/out-door.svg"
+  },
+  {
+    "id": "efa838d4-b96d-4e0e-b471-3483f3f89b54",
+    "tagName": "IconComponent",
+    "className": "cube25 ",
+    "cssText": "top: 371px; left: 372px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(-90.05px, 110.678px) rotate(90.1053deg) scale(1, 1);",
+    "svgUrl": "src/assets/svg/out-door.svg"
+  },
+  {
+    "id": "aec8b37c-bf72-4ebf-b6a2-56d96ca45967",
+    "tagName": "IconComponent",
+    "className": "cube26 ",
+    "cssText": "top: 236px; left: 854px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(-23.9388px, 2.1612px) rotate(178.359deg) scale(1, 1);",
+    "svgUrl": "src/assets/svg/out-door.svg"
+  },
+  {
+    "id": "c4d06967-fe3e-49d4-bf73-9ce1050c9dbe",
+    "tagName": "p",
+    "className": "cube27 ",
+    "cssText": "top: 116px; left: 710px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(9.04849px, -4.10584px) rotate(89.1941deg) scale(1, 1); width: 7px; height: 55px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "eed51df9-06b2-44e3-b8f7-e0e546f9e688",
+    "tagName": "p",
+    "className": "cube28 ",
+    "cssText": "top: 114px; left: 287px; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); position: absolute; transform: translate(-1.35732px, 5.3009px) rotate(89.7106deg) scale(1, 1); width: 7px; height: 40px;",
+    "svgUrl": ""
+  },
+  {
+    "id": "4984caba-d28a-4b5e-b149-0e9b9d614903",
+    "tagName": "IconComponent",
+    "className": "cube29 ",
+    "cssText": "top: 234px; left: 361px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(8.3px, 4.5px) rotate(0deg) scale(1, 1);",
+    "svgUrl": "src/assets/svg/out-door.svg"
+  },
+  {
+    "id": "06508b6b-2e48-455a-9280-1ed8cb2689f9",
+    "tagName": "IconComponent",
+    "className": "cube30 ",
+    "cssText": "top: 198px; left: 706px; width: 24px; height: 24px; font-size: 18px; position: absolute; transform: translate(0px, 0px) rotate(87.0204deg) scale(1, 1);",
+    "svgUrl": "src/assets/svg/out-door.svg"
+  }
+]

@@ -440,3 +440,8 @@ export const parseUrlParams = (url: string): Record<string, string> => {
 
   return params
 }
+export function checkInput(target: HTMLElement | SVGElement) {
+  const tagName = target.tagName.toLowerCase()
+
+  return (target as HTMLElement).isContentEditable || tagName === 'input' || tagName === 'textarea'
+}
